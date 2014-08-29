@@ -1,0 +1,6 @@
+CMakeLists.txt.*
+
+#Android
+.classpath
+.cproject
+.project
